@@ -1,23 +1,30 @@
 # CRUD PHP MYSQL Data Mahasiswa
 
-Program ini di buat untuk memenuhi tugas pemograman Web dalam 
+Program ini di buat untuk memenuhi tugas pemograman Web yaitu 
 pembuatan program CRUD dengan menggunakan PHP, Mysql, dan 
 Boostrap dengan bantuan ChatGPT.
 
-## Berikut beberapa tangkapan layar percakapan saya dengan ChatGPT
+chat GPT :
+https://openai.com/blog/chatgpt/
+
+
+## Berikut beberapa tangkapan layar percakapan saya dengan ChatGPT :
 ![screenshot](screenshot/gpt1.png)
-![screenshot](screenshot/gpt4.png)
 ![screenshot](screenshot/gpt5.png)
 ![screenshot](screenshot/gpt7.png)
 ![screenshot](screenshot/gpt9.png)
 ![screenshot](screenshot/gpt10.png)
-![screenshot](screenshot/gpt11.png)
+![screenshot](screenshot/gpt17.png)
+![screenshot](screenshot/gpt18.png)
+
 
 
 ## Berikut Hasil Akhirnya :
--**Tampilan Awal**
+- **Tampilan Awal**
 ![screenshot](screenshot/index.png)
--**Tampilan Tambah Data**
+
+- **Tampilan Tambah Data**
 ![screenshot](screenshot/tambah.png)
--**Tampilan Edit Data**
+
+- **Tampilan Edit Data**
 ![screenshot](screenshot/update.png)
