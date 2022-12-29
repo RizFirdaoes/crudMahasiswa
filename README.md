@@ -5,7 +5,7 @@ pembuatan program CRUD dengan menggunakan PHP, Mysql, dan
 Boostrap dengan bantuan ChatGPT.
 
 ## Berikut beberapa tangkapan layar percakapan saya dengan ChatGPT
-![screenshot](screenshot/gpt3.png)
+![screenshot](screenshot/gpt1.png)
 ![screenshot](screenshot/gpt4.png)
 ![screenshot](screenshot/gpt5.png)
 ![screenshot](screenshot/gpt7.png)
