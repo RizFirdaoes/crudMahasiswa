@@ -50,7 +50,7 @@
                 <input type="text" id="alamat" name="alamat" class="form-control" value="<?php echo $alamat; ?>">
                 </div>
                 <div class="col-3 m-auto">
-                <button type="submit" class="btn btn-primary" name="update">Update</button>
+                <button type="submit" class="btn btn-primary" name="update">Edit</button>
                 </div>
                 </form>
             </div>
