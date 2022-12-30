@@ -1,5 +1,9 @@
 # CRUD PHP MYSQL Data Mahasiswa
 
+Nama  : Rizky Firdaus 
+NIM   : 312110437
+Kelas : TI.21.C4
+
 Program ini di buat untuk memenuhi tugas pemograman Web yaitu 
 pembuatan program CRUD dengan menggunakan PHP, Mysql, dan 
 Boostrap dengan bantuan ChatGPT.
